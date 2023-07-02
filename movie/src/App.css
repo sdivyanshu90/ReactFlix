@@ -25,7 +25,7 @@
 .overlay {
 	position: absolute;
 	background: rgba(0, 0, 0, 0.8);
-	width: 60vh;
+	width: 53.5vh;
 	transition: 0.5s ease;
 	opacity: 0;
 	bottom: 0;
